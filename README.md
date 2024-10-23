@@ -1,2 +1,2 @@
 # vue-testing
-a repository for testing with vue and github pages
+A repository for testing with Vue.js and github pages
